@@ -1,0 +1,25 @@
+{
+  "name": "landing-trello-react",
+  "version": "1.0.0",
+  "description": "Opening page for project manager tasks and production routines.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allanncruz/landing-trello-react.js.git"
+  },
+  "keywords": [
+    "landing",
+    "page",
+    "react",
+    "trello"
+  ],
+  "author": "Allan Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allanncruz/landing-trello-react.js/issues"
+  },
+  "homepage": "https://github.com/allanncruz/landing-trello-react.js#readme"
+}
