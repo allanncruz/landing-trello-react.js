@@ -7,6 +7,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar {
+  background: linear-gradient(to right, #0283cc, #026aa7);
   &.navbar-default {
     background-color: transparent;
     border-color: transparent;
